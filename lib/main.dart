@@ -33,8 +33,7 @@ class MyApp extends StatelessWidget {
       ),
       home: Scaffold(
         appBar: AppBar(
-          backgroundColor: Colors.orange,
-          title: Text('Test'),
+          backgroundColor: Colors.pink,
         ),
       ),
     );
