@@ -34,7 +34,7 @@ class MyApp extends StatelessWidget {
       home: Scaffold(
         appBar: AppBar(
           backgroundColor: Colors.orange,
-          title: Text('Test'),
+          title: Text('Git Test'),
         ),
       ),
     );
